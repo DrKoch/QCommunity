@@ -1,0 +1,6 @@
+C:\Users\lucid\Source\Repos\QCommunity\QCommunity\bin\Debug\QCommunity.dll
+C:\Users\lucid\Source\Repos\QCommunity\QCommunity\bin\Debug\QCommunity.pdb
+C:\Users\lucid\Source\Repos\QCommunity\QCommunity\obj\Debug\QCommunity.csprojAssemblyReference.cache
+C:\Users\lucid\Source\Repos\QCommunity\QCommunity\obj\Debug\QCommunity.csproj.CoreCompileInputs.cache
+C:\Users\lucid\Source\Repos\QCommunity\QCommunity\obj\Debug\QCommunity.dll
+C:\Users\lucid\Source\Repos\QCommunity\QCommunity\obj\Debug\QCommunity.pdb
