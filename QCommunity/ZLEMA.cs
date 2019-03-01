@@ -1,8 +1,9 @@
 ﻿using QuantaculaCore;
+using QuantaculaIndicators;
 using System;
 using System.Drawing;
 
-namespace QuantaculaIndicators
+namespace QCommunity
 {
     public class ZLEMA : IndicatorBase
     {
