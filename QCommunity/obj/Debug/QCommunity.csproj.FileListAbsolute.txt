@@ -4,3 +4,10 @@ C:\Users\lucid\Source\Repos\QCommunity\QCommunity\obj\Debug\QCommunity.csprojAss
 C:\Users\lucid\Source\Repos\QCommunity\QCommunity\obj\Debug\QCommunity.csproj.CoreCompileInputs.cache
 C:\Users\lucid\Source\Repos\QCommunity\QCommunity\obj\Debug\QCommunity.dll
 C:\Users\lucid\Source\Repos\QCommunity\QCommunity\obj\Debug\QCommunity.pdb
+C:\Users\lucid\Source\Repos\QCommunity\QCommunity\bin\Debug\QuantaculaCore.dll
+C:\Users\lucid\Source\Repos\QCommunity\QCommunity\bin\Debug\QuantaculaIndicators.dll
+C:\Users\lucid\Source\Repos\QCommunity\QCommunity\bin\Debug\QuantaculaChart.dll
+C:\Users\lucid\Source\Repos\QCommunity\QCommunity\bin\Debug\QuantaculaCore.pdb
+C:\Users\lucid\Source\Repos\QCommunity\QCommunity\bin\Debug\QuantaculaIndicators.pdb
+C:\Users\lucid\Source\Repos\QCommunity\QCommunity\bin\Debug\QuantaculaChart.pdb
+C:\Users\lucid\Source\Repos\QCommunity\QCommunity\obj\Debug\QCommunity.csproj.CopyComplete
