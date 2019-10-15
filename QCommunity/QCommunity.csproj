@@ -32,10 +32,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="QuantaculaCore">
-      <HintPath>..\..\Quantacula6\QuantacularCore\bin\Debug\QuantaculaCore.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Repos\Quantacula\QuantaculaIndicators\bin\Debug\QuantaculaCore.dll</HintPath>
     </Reference>
     <Reference Include="QuantaculaIndicators">
-      <HintPath>..\..\Quantacula6\QuantaculaIndicators\bin\Debug\QuantaculaIndicators.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Repos\Quantacula\QuantaculaIndicators\bin\Debug\QuantaculaIndicators.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StockChartsTechnicalRank.cs" />
     <Compile Include="ZLEMA.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
