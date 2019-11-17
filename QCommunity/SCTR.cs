@@ -4,12 +4,12 @@ using System;
 
 namespace QCommunity
 {
-    public class StockChartsTechnicalRank : IndicatorBase
+    public class SCTR : IndicatorBase
     {
-        public StockChartsTechnicalRank() : base()
+        public SCTR() : base()
         { }
 
-        public StockChartsTechnicalRank(TimeSeries source, int multiplier, int smoothingPeriod, BarHistory bars) : base()
+        public SCTR(TimeSeries source, int multiplier, int smoothingPeriod, BarHistory bars) : base()
         {
             Parameters[0].Value = source;
             Parameters[1].Value = multiplier;
